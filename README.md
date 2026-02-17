@@ -1,6 +1,6 @@
 # Air Canvas – Hand Gesture Drawing App
 
-**Creator:** tubakhxn
+**Creator:** abhiram
 
 Air Canvas turns your webcam into an invisible paintbrush. Wave your hand in mid-air and watch smooth digital ink appear in real time, powered by OpenCV for video capture and MediaPipe Hands for landmark tracking.
 
@@ -49,17 +49,5 @@ air-canvas/
 
 Add your own screenshots or GIFs of the running app directly to this README to showcase results.
 
-## Fork & Extend the Project
-1. Visit the GitHub repository and click **Fork** to copy it to your account.
-2. Clone your fork locally: `git clone https://github.com/<your-username>/air-canvas.git`.
-3. Add the original project as an upstream remote for easy syncing:
-	```bash
-	git remote add upstream https://github.com/tubakhxn/air-canvas.git
-	git fetch upstream
-	git checkout main
-	git merge upstream/main
-	```
-4. Create a feature branch (`git checkout -b feature/new-gesture`), implement changes, and push to your fork.
-5. Open a pull request against `tubakhxn/air-canvas` to share improvements.
 
-Issues and enhancements are welcome—keep the gestures flowing!
+
