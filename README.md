@@ -50,4 +50,6 @@ air-canvas/
 Add your own screenshots or GIFs of the running app directly to this README to showcase results.
 
 
+<img width="1899" height="648" alt="image" src="https://github.com/user-attachments/assets/71e431e5-acc8-4c72-b58f-08e2e8bb5069" />
+
 
